@@ -1,12 +1,16 @@
 ## Seja Bem-Vindo!
 
 # Projeto de Paradigma Lógico
+<hr>
 
 Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, um dos principais paradigmas da programação e da inteligência artificial. O paradigma lógico se baseia na utilização de declarações lógicas e inferências, permitindo a representação de conhecimento e a resolução de problemas de forma declarativa, ao invés de sequencial.
 
 👨‍💻Integrantes do grupo:
-- Eduarda Fernandes - 29204356 - 
-- Davi Santos - 31075550 -
+- Eduarda Fernandes - 29204356 - [GitHub](https://github.com/eduardasf)
+- Davi Santos - 31075550 - [GitHub]()
+
+🔗Link do Trabalho:
+(https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico)
 
 🔍Tópitos abordado no trabalho:
 - Explicação do paradigma lógico - Davi
@@ -15,6 +19,9 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
   - Princípios Fundamentais do Paradigma Lógico
   - Linguagens de Programação Lógicas
   - Componentes de um Programa Lógico
+
+- Python
+   - 
 
 📚Referências:
 - Explicação do paradigma lógico - Davi\n
@@ -25,6 +32,3 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
   - (https://pt.wikipedia.org/wiki/Oz_(linguagem_de_programação))
   - (https://pt.wikipedia.org/wiki/Concorrência_(ciência_da_computação))
   - (https://pt.wikipedia.org/wiki/Prolog)
-  - (https://pt.wikipedia.org/wiki/Oz_(linguagem_de_programa%C3%A7%C3%A3o))
-  - (https://pt.wikipedia.org/wiki/L%C3%B3gica_de_predicados)
-  - (https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_l%C3%B3gica)
