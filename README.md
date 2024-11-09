@@ -1,6 +1,11 @@
-# ProjetoDeParadigmaLogico
+Seja Bem-Vindo!
 Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, um dos principais paradigmas da programação e da inteligência artificial. O paradigma lógico se baseia na utilização de declarações lógicas e inferências, permitindo a representação de conhecimento e a resolução de problemas de forma declarativa, ao invés de sequencial.
 
-Nesse paradigma, o foco está na descrição do que é verdadeiro ou falso em um dado contexto, usando uma linguagem formal que expressa regras e fatos. Isso permite que o programador especifique as condições e as relações entre diferentes elementos, enquanto o sistema é responsável por determinar como alcançar um resultado desejado. Essa abordagem contrasta com os paradigmas imperativos, onde o programador define uma sequência de passos a serem executados.
+👨‍💻Integrantes do grupo:
+- Eduarda Fernandes - 29204356 - 
+- Davi Santos - 31075550 -
 
-O paradigma lógico é amplamente utilizado em áreas como inteligência artificial, onde é fundamental para o desenvolvimento de sistemas especialistas e na representação do conhecimento. Ele também sustenta a programação em linguagens como Prolog, que facilitam a resolução de problemas complexos através de técnicas como a unificação e a resolução de consultas. Assim, o paradigma lógico não apenas transforma a maneira como interagimos com dados, mas também enriquece o desenvolvimento de aplicações que dependem de raciocínio automático e inferência.
+🔍Tópitos do Projeto:
+
+
+📚Referências:
