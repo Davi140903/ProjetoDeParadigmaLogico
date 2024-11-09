@@ -2,7 +2,7 @@
 
 # Projeto de Paradigma Lógico
 
-Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, um dos principais paradigmas da programação e da inteligência artificial. O paradigma lógico se baseia na utilização de declarações lógicas e inferências, permitindo a representação de conhecimento e a resolução de problemas de forma declarativa, ao invés de sequencial.<br>
+Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, um dos principais paradigmas da programação e da inteligência artificial. O paradigma lógico se baseia na utilização de declarações lógicas e inferências, permitindo a representação de conhecimento e a resolução de problemas de forma declarativa, ao invés de sequencial.
 
 👨‍💻Integrantes do grupo:
 - Eduarda Fernandes - 29204356 - [GitHub](https://github.com/eduardasf)
@@ -18,6 +18,12 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
   - Princípios Fundamentais do Paradigma Lógico
   - Linguagens de Programação Lógicas
   - Componentes de um Programa Lógico
+- Python - Eduarda
+  - Quando e quem criou a linguagem Python
+  - Qual foi o motivo da criação do python
+  - Qual foi a origem do nome Python
+  - Características da linguagem Python
+  - Quais são os benefícios do Python
  
 📚Referências:
 - Explicação do paradigma lógico - Davi\n
@@ -28,3 +34,7 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
   - (https://pt.wikipedia.org/wiki/Oz_(linguagem_de_programação))
   - (https://pt.wikipedia.org/wiki/Concorrência_(ciência_da_computação))
   - (https://pt.wikipedia.org/wiki/Prolog)
+-Python
+  - (https://pt.wikipedia.org/wiki/Python)
+  - (https://www.alura.com.br/artigos/python-origem-do-nome?srsltid=AfmBOopIq50CxLfIFpHC-XVlnSmX6KdGWjX636_er5psHKDbyNsWttvX)
+  - (https://aws.amazon.com/pt/what-is/python/)
