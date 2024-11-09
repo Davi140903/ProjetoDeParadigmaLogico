@@ -13,10 +13,11 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
 
 🔍Tópitos abordados no trabalho:
 - Explicação do paradigma lógico - Davi
-  - Introdução ao Paradigma Lógico
   - Origem do Paradigma Lógico
-  - Princípios Fundamentais do Paradigma Lógico
+  - O que é o paradigma Lógico
   - Linguagens de Programação Lógicas
+  - Elementos do paradigma Lógico
+  - Como funciona o paradigma lógico
   - Componentes de um Programa Lógico
 - Python - Eduarda
   - Quando e quem criou a linguagem Python
