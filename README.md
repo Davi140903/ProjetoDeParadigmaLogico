@@ -34,7 +34,7 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
   - (https://pt.wikipedia.org/wiki/Oz_(linguagem_de_programação))
   - (https://pt.wikipedia.org/wiki/Concorrência_(ciência_da_computação))
   - (https://pt.wikipedia.org/wiki/Prolog)
--Python
+- Python
   - (https://pt.wikipedia.org/wiki/Python)
   - (https://www.alura.com.br/artigos/python-origem-do-nome?srsltid=AfmBOopIq50CxLfIFpHC-XVlnSmX6KdGWjX636_er5psHKDbyNsWttvX)
   - (https://aws.amazon.com/pt/what-is/python/)
