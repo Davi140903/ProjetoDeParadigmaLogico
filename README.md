@@ -11,7 +11,7 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
 🔗Link do trabalho:
 (https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico)
 
-🔍Tópitos abordado no trabalho:
+🔍Tópitos abordados no trabalho:
 - Explicação do paradigma lógico - Davi
   - Introdução ao Paradigma Lógico
   - Origem do Paradigma Lógico
