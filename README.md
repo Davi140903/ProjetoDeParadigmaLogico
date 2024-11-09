@@ -26,7 +26,7 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
   - Quais são os benefícios do Python
  
 📚Referências:
-- Explicação do paradigma lógico - Davi\n
+- Explicação do paradigma lógico - Davi
   - (https://pt.wikipedia.org/wiki/Lógica_de_predicados#:~:text=Na%20lógica%20matemática%2C%20a%20lógica,sorted%20logic%20ou%20infinitary%20logic.)
   - (https://codequeens.com.br/2023/10/21/paradigma-logico/#:~:text=O%20paradigma%20lógico%20tem%20raízes,no%20início%20dos%20anos%201970.)
   - (https://pt.wikipedia.org/wiki/Programação_lógica#:~:text=A%20primeira%20linguagem%20de%20programação,eram%20disponíveis%20quando%20foi%20desenvolvida.)
