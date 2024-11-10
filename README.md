@@ -8,8 +8,7 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
 - Eduarda Fernandes - 29204356 - [GitHub](https://github.com/eduardasf)
 - Davi Santos - 31075550 - [GitHub](https://github.com/Davi140903)
   
-🔗Link do trabalho:
-(https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico)
+🔗[Link do trabalho](https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico)
 
 🔍Tópitos abordados no trabalho:
 - Explicação do paradigma lógico
@@ -40,7 +39,7 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
   - (https://pt.wikipedia.org/wiki/Prolog)
   - (https://pt.wikipedia.org/wiki/Oz_(linguagem_de_programação))
   - (https://pt.wikipedia.org/wiki/Concorrência_(ciência_da_computação))
-  - (https://pt.wikipedia.org/wiki/Prolog)
+  - (https://pt.wikipedia.org/wiki/Planner)
 - Python
   - (https://pt.wikipedia.org/wiki/Python)
   - (https://www.alura.com.br/artigos/python-origem-do-nome?srsltid=AfmBOopIq50CxLfIFpHC-XVlnSmX6KdGWjX636_er5psHKDbyNsWttvX)
