@@ -52,6 +52,7 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
   - [Oz (linguagem de programação)](https://pt.wikipedia.org/wiki/Oz_(linguagem_de_programação)) - Essa pesquisa veio do wikipedia
   - [Concorrência (ciência da computação)](https://pt.wikipedia.org/wiki/Concorrência_(ciência_da_computação)) - Essa pesquisa veio do wikipedia
   - [Planner](https://pt.wikipedia.org/wiki/Planner) - Essa pesquisa veio do wikipedia
+  - [Introdução às Linguagens Lógicas Usando Prolog](https://www.fsma.edu.br/si/edicao30/FSMA_SI_2022_2_04_Prolog.pdf) - Essa pesquisa veio de um artigo técnico que explica os fundamentos do Prolog e sua aplicação como paradigma lógico.
 - Python
   - [Python](https://pt.wikipedia.org/wiki/Python) - Essa pesquisa veio do wikipedia
   - [Python: a origem do nome](https://www.alura.com.br/artigos/python-origem-do-nome?srsltid=AfmBOopIq50CxLfIFpHC-XVlnSmX6KdGWjX636_er5psHKDbyNsWttvX) - Essa pesquisa veio da alura
