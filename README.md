@@ -12,13 +12,13 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
 - Luis Eduardo Garcia - 30258863 - [GitHub](https://github.com/luisgarcia723)
 - Zandor Duarte - 29693829 - [GitHub](https://github.com/Duarte-01)
 - João Victor - - [GitHub](https://github.com/victor884)
+
+  
+🔗[Link do Kahoot](https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico)
   
 🔗[Link do trabalho](https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico) 
 
-🔗[Link do Kahoot](https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico)
-
 🔍Tópitos abordados no trabalho:
-- Explicação do paradigma lógico
   - Origem do Paradigma Lógico
     - A programação lógica é um conceito explorado na inteligência artificial desde 1958, quando John McCarthy propôs o uso de sentenças formais, como o cálculo de predicados, para manipular informações e gerar conclusões a partir de premissas. Essas conclusões poderiam ser tanto declarativas quanto imperativas, e quando uma sentença imperativa fosse deduzida, o programa executaria uma ação correspondente. Na década de 1970, a programação lógica se desenvolveu com base na lógica matemática e influenciada por pesquisas em IA, como o cálculo de predicados de Alonzo Church, levando ao surgimento do Prolog, uma linguagem de programação baseada nesse paradigma.
   - O que é o paradigma Lógico
@@ -41,8 +41,7 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
     - O paradigma lógico é amplamente utilizado em raciocínio dedutivo, inferência automática e resolução de problemas baseados em regras. Ele é aplicado em áreas como inteligência artificial, sistemas especialistas, sistemas jurídicos e verificação formal de software. Exemplos incluem planejamento e otimização, verificação formal, consulta dedutiva em bases de dados, automação de regras jurídicas e resolução de quebra-cabeças lógicos.  
   - Quando usar o paradigma lógico
     - O paradigma lógico envolve expressar programas por meio de lógica simbólica e utilizar inferência lógica para gerar resultados. Suas principais aplicações incluem inteligência artificial, processamento de linguagem natural, sistemas especialistas e prova de teoremas. É mais utilizado em áreas acadêmicas, focando em resultados por meio de avaliações lógicas e matemáticas, sendo menos comum em aplicações comerciais.
-  - Exemplo em código
-- Python 
+  - Exemplo em código (apresentado nos slides)
   - Quando e quem criou a linguagem Python
      - Guido Van Rossum criou o Python em 1989. Ele trabalhava no Centrum Voor Wiskunde en Informatica no início dos anos 1980, e seu trabalho era implementar a linguagem de programação conhecida como ABC.
   - Qual foi o motivo da criação do python
@@ -58,8 +57,7 @@ Assim, quando desenvolveu a linguagem, ele pensou que precisava de um nome que f
     - Os desenvolvedores podem ler e entender facilmente um programa Python, porque tem uma sintaxe básica semelhante à do inglês. 
     - O Python aumenta a produtividade dos desenvolvedores, porque eles podem escrever um programa Python usando menos linhas de código em comparação a muitas outras linguagens.
     - Os desenvolvedores podem usar o Python facilmente com outras linguagens de programação populares, como Java, C e C++.
-- Python sintaxe / semântica
-  - Exemplos de códigos em python
+  - Exemplos de códigos em python (apresentado nos slides)
  
 📚Referências:
 - Explicação do paradigma lógico - Davi
