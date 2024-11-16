@@ -60,7 +60,7 @@ Assim, quando desenvolveu a linguagem, ele pensou que precisava de um nome que f
   - Exemplos de códigos em python (apresentado nos slides)
  
 📚Referências:
-- Explicação do paradigma lógico - Davi
+- Explicação do paradigma lógico 
   - [Lógica de predicado](https://pt.wikipedia.org/wiki/Lógica_de_predicados#:~:text=Na%20lógica%20matemática%2C%20a%20lógica,sorted%20logic%20ou%20infinitary%20logic.) - Wikipedia
   - [Programação lógica](https://pt.wikipedia.org/wiki/Programação_lógica#:~:text=A%20primeira%20linguagem%20de%20programação,eram%20disponíveis%20quando%20foi%20desenvolvida.) - Wikipedia
   - [Prolog](https://pt.wikipedia.org/wiki/Prolog) - Wikipedia
