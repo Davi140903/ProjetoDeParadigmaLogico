@@ -77,6 +77,7 @@ Assim, quando desenvolveu a linguagem, ele pensou que precisava de um nome que f
   - [Python](https://pt.wikipedia.org/wiki/Python) - Wikipedia
   - [Python: a origem do nome](https://www.alura.com.br/artigos/python-origem-do-nome?srsltid=AfmBOopIq50CxLfIFpHC-XVlnSmX6KdGWjX636_er5psHKDbyNsWttvX) - Alura
   - [O que é Python?](https://aws.amazon.com/pt/what-is/python/) - Aws.amazon
+  - [Python Version: A Evolução da Linguagem de Programação Python](https://awari.com.br/python-version-a-evolucao-da-linguagem-de-programacao-python-2/) - awari.com
   - [Sintaxe e semântica de Python](https://pt.m.wikipedia.org/wiki/Sintaxe_e_sem%C3%A2ntica_de_Python) - Wikipedia
   - [Python Iluminado](https://pythoniluminado.netlify.app/sintaxe) - pythoniluminado
   - [Python Tutorial](https://www.w3schools.com/python/) - w3schools
