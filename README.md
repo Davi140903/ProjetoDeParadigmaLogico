@@ -11,10 +11,10 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
 - Davi Santos - 31075550 - [GitHub](https://github.com/Davi140903)
 - Luis Eduardo Garcia - 30258863 - [GitHub](https://github.com/luisgarcia723)
 - Zandor Duarte - 29693829 - [GitHub](https://github.com/Duarte-01)
-- João Victor - - [GitHub](https://github.com/victor884)
+- João Victor - 32088493 - [GitHub](https://github.com/victor884)
 
   
-🔗[Link do Kahoot](https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico)
+🔗[Link do Kahoot](https://create.kahoot.it/share/paradigma-logico/107dc4fb-b377-45b4-a49b-c00bf45a9787)
   
 🔗[Link do trabalho](https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico) 
 
