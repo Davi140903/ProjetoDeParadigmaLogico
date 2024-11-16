@@ -9,8 +9,13 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
 👨‍💻Integrantes do grupo:
 - Eduarda Fernandes - 29204356 - [GitHub](https://github.com/eduardasf)
 - Davi Santos - 31075550 - [GitHub](https://github.com/Davi140903)
+- Luis Eduardo Garcia - 30258863 - [GitHub](https://github.com/luisgarcia723)
+- Zandor Duarte - 29693829 - [GitHub](https://github.com/Duarte-01)
+- João Victor - - [GitHub](https://github.com/victor884)
   
-🔗[Link do trabalho](https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico)
+🔗[Link do trabalho](https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico) 
+
+🔗[Link do Kahoot](https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico)
 
 🔍Tópitos abordados no trabalho:
 - Explicação do paradigma lógico
@@ -39,23 +44,42 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
   - Exemplo em código
 - Python 
   - Quando e quem criou a linguagem Python
+     - Guido Van Rossum criou o Python em 1989. Ele trabalhava no Centrum Voor Wiskunde en Informatica no início dos anos 1980, e seu trabalho era implementar a linguagem de programação conhecida como ABC.
   - Qual foi o motivo da criação do python
+     - Python foi criado para ser uma linguagem de fácil leitura e aprendizado, com uma sintaxe que favorecesse a clareza, facilitando a escrita e manutenção do código. A ideia era também permitir que os programadores se concentrassem mais na resolução de problemas do que em detalhes complicados da linguagem.
   - Qual foi a origem do nome Python
+     - Na década de 1970, a BBC tinha um programa de TV popular do qual van Rossum era um grande fã chamado Fly Circus de Monty Python, ou apenas Monty Python para os Íntimos.
+Assim, quando desenvolveu a linguagem, ele pensou que precisava de um nome que fosse curto, único e um pouco misterioso, e por algum motivo que só ele conhecia, decidiu chamar o projeto de “Python”.
   - Características da linguagem Python
+    - Uma linguagem interpretada: O Python é uma linguagem interpretada, o que significa que executa diretamente o código linha por linha. Se houver erros no código do programa, ele será interrompido. Portanto, os programadores podem encontrar rapidamente erros no código.
+    - Uma linguagem fácil de usar: O Python usa palavras semelhantes às do inglês. Ao contrário de outras linguagens de programação, o Python não usa chaves. Em vez disso, usa recuo. 
+    - Uma linguagem com tipos dinâmicos: Os programadores não precisam declarar tipos de variáveis ao escrever o código, porque o Python os determina no tempo de execução. Dessa forma, é possível escrever programas Python mais rapidamente.
   - Quais são os benefícios do Python
+    - Os desenvolvedores podem ler e entender facilmente um programa Python, porque tem uma sintaxe básica semelhante à do inglês. 
+    - O Python aumenta a produtividade dos desenvolvedores, porque eles podem escrever um programa Python usando menos linhas de código em comparação a muitas outras linguagens.
+    - Os desenvolvedores podem usar o Python facilmente com outras linguagens de programação populares, como Java, C e C++.
 - Python sintaxe / semântica
   - Exemplos de códigos em python
  
 📚Referências:
 - Explicação do paradigma lógico - Davi
-  - [Lógica de predicado](https://pt.wikipedia.org/wiki/Lógica_de_predicados#:~:text=Na%20lógica%20matemática%2C%20a%20lógica,sorted%20logic%20ou%20infinitary%20logic.) - Essa pesquisa veio do wikipedia
-  - [Programação lógica](https://pt.wikipedia.org/wiki/Programação_lógica#:~:text=A%20primeira%20linguagem%20de%20programação,eram%20disponíveis%20quando%20foi%20desenvolvida.) - Essa pesquisa veio do wikipedia
-  - [Prolog](https://pt.wikipedia.org/wiki/Prolog) - Essa pesquisa veio do wikipedia
-  - [Oz (linguagem de programação)](https://pt.wikipedia.org/wiki/Oz_(linguagem_de_programação)) - Essa pesquisa veio do wikipedia
-  - [Concorrência (ciência da computação)](https://pt.wikipedia.org/wiki/Concorrência_(ciência_da_computação)) - Essa pesquisa veio do wikipedia
-  - [Carl Hewitt - Research - Planner]([https://pt.wikipedia.org/wiki/Planner](https://www.liquisearch.com/carl_hewitt/research/planner)) - Essa pesquisa veio do liquisearch
+  - [Lógica de predicado](https://pt.wikipedia.org/wiki/Lógica_de_predicados#:~:text=Na%20lógica%20matemática%2C%20a%20lógica,sorted%20logic%20ou%20infinitary%20logic.) - Wikipedia
+  - [Programação lógica](https://pt.wikipedia.org/wiki/Programação_lógica#:~:text=A%20primeira%20linguagem%20de%20programação,eram%20disponíveis%20quando%20foi%20desenvolvida.) - Wikipedia
+  - [Prolog](https://pt.wikipedia.org/wiki/Prolog) - Wikipedia
+  - [Oz (linguagem de programação)](https://pt.wikipedia.org/wiki/Oz_(linguagem_de_programação)) - Wikipedia
+  - [Concorrência (ciência da computação)](https://pt.wikipedia.org/wiki/Concorrência_(ciência_da_computação)) - Wikipedia
+  - [Carl Hewitt - Research - Planner](https://www.liquisearch.com/carl_hewitt/research/planner) - Liquisearch
+  - [Planner](https://pt.wikipedia.org/wiki/Planner) - Wikipedia
   - [Introdução às Linguagens Lógicas Usando Prolog](https://www.fsma.edu.br/si/edicao30/FSMA_SI_2022_2_04_Prolog.pdf) - Essa pesquisa veio de um artigo técnico que explica os fundamentos do Prolog e sua aplicação como paradigma lógico.
+  - [Paradigmas da Programação](https://beecrowd.com/pt/blog-posts/paradigmas-da-programacao/) - Essa pesquisa veio do site beecrowd.com
+  - [Paradigma Lógico](https://leandromoh.gitbooks.io/tcc-paradigmas-de-programacao/content/6_paradigma_logico/index.html) - Leandromoh.gitbooks.io
+  - [PARADIGMAS DE PROGRAMAÇÃO: UMA INTRODUÇÃO](https://www.editorasynapse.org/wp-content/uploads/2021/03/paradigmas_programacao_uma_introducao_V0.pdf) - Livro em formato PDF (Paradigmas de programação: Uma introdução)
+  - [Paradigmas de Programação](https://mazer.dev/pt-br/blog/artigos/paradigmas-de-programacao/) - Mazer.dev
 - Python
-  - [Python](https://pt.wikipedia.org/wiki/Python) - Essa pesquisa veio do wikipedia
-  - [Python: a origem do nome](https://www.alura.com.br/artigos/python-origem-do-nome?srsltid=AfmBOopIq50CxLfIFpHC-XVlnSmX6KdGWjX636_er5psHKDbyNsWttvX) - Essa pesquisa veio da alura
-  - [O que é Python?](https://aws.amazon.com/pt/what-is/python/) - Essa pesquisa veio do aws.amazon
+  - [Python](https://pt.wikipedia.org/wiki/Python) - Wikipedia
+  - [Python: a origem do nome](https://www.alura.com.br/artigos/python-origem-do-nome?srsltid=AfmBOopIq50CxLfIFpHC-XVlnSmX6KdGWjX636_er5psHKDbyNsWttvX) - Alura
+  - [O que é Python?](https://aws.amazon.com/pt/what-is/python/) - Aws.amazon
+  - [Sintaxe e semântica de Python](https://pt.m.wikipedia.org/wiki/Sintaxe_e_sem%C3%A2ntica_de_Python) - Wikipedia
+  - [Python Iluminado](https://pythoniluminado.netlify.app/sintaxe) - pythoniluminado
+  - [Python Tutorial](https://www.w3schools.com/python/) - w3schools
+  - [Python para desenvolvedores](https://books.google.com.br/books?hl=pt-BR&lr=&id=eZmtBAAAQBAJ&oi=fnd&pg=PA5&dq=sintaxe+em+python&ots=VFOoupHjhm&sig=tyD_DZxjWTXahrwryq3yjTr2EcU#v=onepage&q=sintaxe%20em%20python&f=false) - Livro em formato PDF (Python para desenvolvedores)
