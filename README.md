@@ -14,8 +14,6 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
 - João Victor - 32088493 - [GitHub](https://github.com/victor884)
 
   
-🔗[Link do Kahoot](https://create.kahoot.it/share/paradigma-logico/107dc4fb-b377-45b4-a49b-c00bf45a9787)
-  
 🔗[Link do trabalho](https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico) 
 
 🔍Tópitos abordados no trabalho:
