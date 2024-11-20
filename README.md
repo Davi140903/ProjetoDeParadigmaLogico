@@ -16,6 +16,8 @@ Este repositório é dedicado ao estudo e à aplicação do paradigma lógico, u
   
 🔗[Link do trabalho](https://view.genially.com/66f894478897e29f2b01a262/presentation-paradigma-logico) 
 
+🔗[Link do Kahoot](https://create.kahoot.it/share/paradigma-logico/107dc4fb-b377-45b4-a49b-c00bf45a9787)
+
 🔍Tópitos abordados no trabalho:
   - Origem do Paradigma Lógico
     - A programação lógica é um conceito explorado na inteligência artificial desde 1958, quando John McCarthy propôs o uso de sentenças formais, como o cálculo de predicados, para manipular informações e gerar conclusões a partir de premissas. Essas conclusões poderiam ser tanto declarativas quanto imperativas, e quando uma sentença imperativa fosse deduzida, o programa executaria uma ação correspondente. Na década de 1970, a programação lógica se desenvolveu com base na lógica matemática e influenciada por pesquisas em IA, como o cálculo de predicados de Alonzo Church, levando ao surgimento do Prolog, uma linguagem de programação baseada nesse paradigma.
@@ -64,17 +66,17 @@ Assim, quando desenvolveu a linguagem, ele pensou que precisava de um nome que f
   - [Concorrência (ciência da computação)](https://pt.wikipedia.org/wiki/Concorrência_(ciência_da_computação)) - Wikipedia
   - [Carl Hewitt - Research - Planner](https://www.liquisearch.com/carl_hewitt/research/planner) - Liquisearch
   - [Planner](https://pt.wikipedia.org/wiki/Planner) - Wikipedia
-  - [Introdução às Linguagens Lógicas Usando Prolog](https://www.fsma.edu.br/si/edicao30/FSMA_SI_2022_2_04_Prolog.pdf) - Essa pesquisa veio de um artigo técnico que explica os fundamentos do Prolog e sua aplicação como paradigma lógico.
+  - [Introdução às Linguagens Lógicas Usando Prolog](https://www.fsma.edu.br/si/edicao30/FSMA_SI_2022_2_04_Prolog.pdf) - Essa pesquisa veio de um artigo técnico que explica os fundamentos do Prolog e sua aplicação como paradigma lógico - autor: Ricardo Linden 
   - [Paradigmas da Programação](https://beecrowd.com/pt/blog-posts/paradigmas-da-programacao/) - Essa pesquisa veio do site beecrowd.com
-  - [Paradigma Lógico](https://leandromoh.gitbooks.io/tcc-paradigmas-de-programacao/content/6_paradigma_logico/index.html) - Leandromoh.gitbooks.io
-  - [PARADIGMAS DE PROGRAMAÇÃO: UMA INTRODUÇÃO](https://www.editorasynapse.org/wp-content/uploads/2021/03/paradigmas_programacao_uma_introducao_V0.pdf) - Livro em formato PDF (Paradigmas de programação: Uma introdução)
+  - [Paradigma Lógico](https://leandromoh.gitbooks.io/tcc-paradigmas-de-programacao/content/6_paradigma_logico/index.html) - Leandromoh.gitbooks.io - autor: Leandro Fernandes Vieira
+  - [PARADIGMAS DE PROGRAMAÇÃO: UMA INTRODUÇÃO](https://www.editorasynapse.org/wp-content/uploads/2021/03/paradigmas_programacao_uma_introducao_V0.pdf) - Livro em formato PDF (Paradigmas de programação: Uma introdução) - autores: Sidnei Renato Silveira - Antônio Rodrigo Delepiane de Vit - Cristiano Bertolini - Fábio José Parreira - Guilherme Bernardino da Cunha - Nara Martini Bigolin
   - [Paradigmas de Programação](https://mazer.dev/pt-br/blog/artigos/paradigmas-de-programacao/) - Mazer.dev
 - Python
   - [Python](https://pt.wikipedia.org/wiki/Python) - Wikipedia
-  - [Python: a origem do nome](https://www.alura.com.br/artigos/python-origem-do-nome?srsltid=AfmBOopIq50CxLfIFpHC-XVlnSmX6KdGWjX636_er5psHKDbyNsWttvX) - Alura
+  - [Python: a origem do nome](https://www.alura.com.br/artigos/python-origem-do-nome?srsltid=AfmBOopIq50CxLfIFpHC-XVlnSmX6KdGWjX636_er5psHKDbyNsWttvX) - Alura - autor: Guilherme Lima
   - [O que é Python?](https://aws.amazon.com/pt/what-is/python/) - Aws.amazon
   - [Python Version: A Evolução da Linguagem de Programação Python](https://awari.com.br/python-version-a-evolucao-da-linguagem-de-programacao-python-2/) - awari.com
   - [Sintaxe e semântica de Python](https://pt.m.wikipedia.org/wiki/Sintaxe_e_sem%C3%A2ntica_de_Python) - Wikipedia
   - [Python Iluminado](https://pythoniluminado.netlify.app/sintaxe) - pythoniluminado
   - [Python Tutorial](https://www.w3schools.com/python/) - w3schools
-  - [Python para desenvolvedores](https://books.google.com.br/books?hl=pt-BR&lr=&id=eZmtBAAAQBAJ&oi=fnd&pg=PA5&dq=sintaxe+em+python&ots=VFOoupHjhm&sig=tyD_DZxjWTXahrwryq3yjTr2EcU#v=onepage&q=sintaxe%20em%20python&f=false) - Livro em formato PDF (Python para desenvolvedores)
+  - [Python para desenvolvedores](https://books.google.com.br/books?hl=pt-BR&lr=&id=eZmtBAAAQBAJ&oi=fnd&pg=PA5&dq=sintaxe+em+python&ots=VFOoupHjhm&sig=tyD_DZxjWTXahrwryq3yjTr2EcU#v=onepage&q=sintaxe%20em%20python&f=false) - Livro em formato PDF (Python para desenvolvedores) - autor: Luiz Eduarda Borges
